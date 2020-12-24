@@ -1,5 +1,5 @@
 # feedMe
-Restaurants App Finder.
+Blog Post.
 
 ```bash
 >_ git clone https://github.com/salihcodev/blogPost
